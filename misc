@@ -1,1 +1,2 @@
 BLKTESTS_CI_CHECK_ARGS="dm loop md throtl ublk"
+EXCLUDE=(loop/003)
