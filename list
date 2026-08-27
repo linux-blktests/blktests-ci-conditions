@@ -1,6 +1,1 @@
-block
 nvme
-scsi
-misc
-zbd
-zbd_device
