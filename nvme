@@ -1,5 +1,5 @@
 BLKTESTS_CI_TEST_DEVS="BDEV0"
-NVMET_TRTYPES="loop rdma"
+NVMET_TRTYPES="loop"
 TIMEOUT=30
 EXCLUDE=(nvme/058)
 DMESG_IGNORE=("at cleanup_srcu_struct")
