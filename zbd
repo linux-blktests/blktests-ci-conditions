@@ -1,3 +1,2 @@
 # Run ZBD blktests without TEST_DEVS
 RUN_ZONED_TESTS=1
-DMESG_IGNORE=("at cleanup_srcu_struct")
